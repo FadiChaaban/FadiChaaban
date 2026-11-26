@@ -48,7 +48,7 @@
 
 ### 🌐 Let's Connect:
 
-- 💼 **LinkedIn:** [Fadi Chaaban](https://www.linkedin.com/in/fadi-chaaban-43b66327/))
+- 💼 **LinkedIn:** [Fadi Chaaban](https://www.linkedin.com/in/fadi-chaaban-43b66327/)
 - 🎓 **Google Scholar:** [Publications Profile](https://scholar.google.com/citations?user=1K87__MAAAAJ&hl=en)
 - 📧 **Email:** [fadi.chaaban@gmail.com](mailto:fadi.chaaban@gmail.com) , fadi.chaaban@latakia-univ.edu.sy
 - 📍 **Location:**  Lille Métropole, Hauts-de-France, France
