@@ -30,7 +30,10 @@
 #### 1. [Sélection de site optimal sous QGIS 3.44 LTR (`qgis-optimal-site-suitability`)](https://github.com/FadiChaaban/qgis-optimal-site-suitability)
 - **Présentation :** Modernisation et automatisation complète d'une méthodologie d'aptitude spatiale multicritère (Chaaban & Darwishe, 2017) sous **QGIS 3.44 LTR**, sans aucune dépendance externe (ni SAGA, ni GRASS).
 - **Points clés :** Modèle graphique (`.model3`) + algorithme **PyQGIS** (`QgsProcessingAlgorithm`) incluant la détection automatique de la grille MNT, la vérification du SCR métrique, une pondération dynamique normalisée, un **filtre majoritaire 3×3 itératif en NumPy/GDAL** et le calcul automatique des surfaces (`area_ha`).
-
+*<img width="690" height="634" alt="image" src="https://github.com/user-attachments/assets/5be2fc1d-3acb-40a5-a4f4-f664c3b776f5" />
+*
+*<img width="1284" height="648" alt="image" src="https://github.com/user-attachments/assets/f01be422-03f3-4e89-9d48-e9ca0ed8e294" />
+*
 ---
 
 ### 🌐 Me contacter :
