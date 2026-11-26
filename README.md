@@ -32,7 +32,8 @@
 - **Key Features:** Graphical Modeler (`.model3`) + standalone **PyQGIS** `QgsProcessingAlgorithm` featuring automatic DEM grid detection, metric CRS validation, dynamic normalized weights, an iterative **3×3 Majority Filter in pure NumPy/GDAL**, and automated vector extraction (`area_ha`).
 - **Tech Stack:** Python, PyQGIS, GDAL, NumPy, Sentinel-2, QGIS Processing.
 
-*(💡 Tip: Add a screenshot of your QGIS tool & output map here later just like GeoPluviale IA!)*
+*<img width="690" height="634" alt="image" src="https://github.com/user-attachments/assets/5be2fc1d-3acb-40a5-a4f4-f664c3b776f5" />
+*
 
 ---
 
