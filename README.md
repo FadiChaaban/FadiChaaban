@@ -34,7 +34,8 @@
 
 *<img width="690" height="634" alt="image" src="https://github.com/user-attachments/assets/5be2fc1d-3acb-40a5-a4f4-f664c3b776f5" />
 *
-
+*<img width="1284" height="648" alt="image" src="https://github.com/user-attachments/assets/f01be422-03f3-4e89-9d48-e9ca0ed8e294" />
+*
 ---
 
 ### 📚 Research & Academic Highlights
