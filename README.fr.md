@@ -35,7 +35,7 @@
 
 ### 🌐 Me contacter :
 
-- 💼 **LinkedIn :** [Fadi Chaaban](YOUR_LINKEDIN_URL)
-- 🎓 **Google Scholar :** [Profil de publications](YOUR_GOOGLE_SCHOLAR_URL)
-- 📧 **Email :** [fadi.chaaban@gmail.com](mailto:fadi.chaaban@gmail.com)
-- 📍 **Localisation :** Ronchin, Métropole Européenne de Lille, France
+- 💼 **LinkedIn:** [Fadi Chaaban](https://www.linkedin.com/in/fadi-chaaban-43b66327/)
+- 🎓 **Google Scholar:** [Publications Profile](https://scholar.google.com/citations?user=1K87__MAAAAJ&hl=en)
+- 📧 **Email:** [fadi.chaaban@gmail.com](mailto:fadi.chaaban@gmail.com) , fadi.chaaban@latakia-univ.edu.sy
+- 📍 **Localisation :** Métropole Européenne de Lille, France
