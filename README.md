@@ -19,7 +19,7 @@
 
 ### 💻 Tech Stack & Tools:
 
-- **GIS & Spatial Databases:** QGIS (3.44 LTR), ArcGIS Pro / Desktop, ArcGIS Online, PostgreSQL / PostGIS, FME (ETL)
+- **GIS & Spatial Databases:** QGIS, ArcGIS Pro / Desktop, ArcGIS Online, PostgreSQL / PostGIS, FME (ETL)
 - **Remote Sensing & 3D / CAD:** Google Earth Engine (GEE), ERDAS IMAGINE, eCognition, ESRI CityEngine, AutoCAD Civil 3D, SketchUp, LiDAR / DEM
 - **Programming & Automation:** Python (PyQGIS, GDAL, NumPy), R, VB.NET, SQL
 
