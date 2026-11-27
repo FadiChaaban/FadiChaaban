@@ -19,7 +19,7 @@
 
 ### 💻 Environnement technique :
 
-- **SIG & Bases de données :** QGIS (3.44 LTR), ArcGIS Pro / Desktop, PostgreSQL / PostGIS, FME
+- **SIG & Bases de données :** QGIS, ArcGIS Pro / Desktop, PostgreSQL / PostGIS, FME
 - **Télédétection, 3D & CAO :** Google Earth Engine, ERDAS IMAGINE, eCognition, ESRI CityEngine, AutoCAD Civil 3D, SketchUp, LiDAR / MNT
 - **Programmation & Automatisation :** Python (PyQGIS, GDAL, NumPy), R, VB.NET, SQL
 
